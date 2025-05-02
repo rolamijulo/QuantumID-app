@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+face_recognition
+pennylane
+Pillow
