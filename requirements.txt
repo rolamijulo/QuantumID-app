@@ -4,3 +4,4 @@ pandas
 face_recognition
 pennylane
 Pillow
+git+https://github.com/ageitgey/face_recognition_models
